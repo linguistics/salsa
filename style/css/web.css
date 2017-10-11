@@ -23,6 +23,10 @@ a:hover {
 
 /* NAV BAR */
 
+.navbar {
+  background: white;
+}
+
 .navbar a {
   color: #bf5700;
 }
@@ -30,11 +34,5 @@ a:hover {
 .nav-link.disabled {
   color: #d6d2c4;
 }
-
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-}
-
 
 
