@@ -1,0 +1,40 @@
+/* COLORS
+ * ut orange: #bf5700
+ * ut light blue: #00a9b7
+ * ut dark blue: #005f86
+ * ut sand: #d6d2c4
+ */
+
+body {
+  padding-top: 5rem;
+}
+
+h1, h2 {
+  color: #bf5700;
+}
+
+a {
+  color: #00a9b7;
+}
+
+a:hover {
+  color: #005f86;
+}
+
+/* NAV BAR */
+
+.navbar a {
+  color: #bf5700;
+}
+
+.nav-link.disabled {
+  color: #d6d2c4;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+
+
