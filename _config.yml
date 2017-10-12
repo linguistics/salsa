@@ -1,2 +1,4 @@
 name: SALSA
 markdown: kramdown
+
+include: ["_pages"]
