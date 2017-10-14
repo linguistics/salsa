@@ -1,4 +1,4 @@
 name: SALSA
 markdown: kramdown
 
-include: ["_pages"]
+include: ["_thisyear"]
