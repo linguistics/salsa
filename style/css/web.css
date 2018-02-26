@@ -35,4 +35,35 @@ a:hover {
   color: #d6d2c4;
 }
 
+/* BUTTONS */
+
+.card {
+  border: 0px;
+}
+
+.btn-primary, .btn-primary:focus {
+  background: white;
+  border-color: #00a9b7;
+  color: #00a9b7;
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  background: white;
+  border-color: #005f86;
+  color: #005f86;
+}
+
+ /* box-shadow: 0 0 0 3px #005f86;*/
+
+.card-body {
+  padding: 0;
+}
+
+/* VARIOUS EMPH */
+
+.keynote-speaker {
+  font-weight: bold;
+}
+
 
